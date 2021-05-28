@@ -1,6 +1,8 @@
 # Russian
 Russian Keyboard Registry Script
 
+This will help, again help you not recieve ransome ware on your network/computer.
+
 Download the .reg file.
 Double-click the reg file
 hit alt-shift to switch from your main keyboard language and russian.
